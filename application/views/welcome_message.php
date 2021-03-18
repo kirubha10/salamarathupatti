@@ -82,24 +82,23 @@
     <div class="row">
       <div class="col-xs-12 col-md-6">
         <div class="about-text">
-          <h2>Welcome to <span>Landscaper</span></h2>
+          <h2>Welcome to <span>salamarathupatti</span></h2>
           <hr>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
+         <p>I live in a beautiful village. The name of my village is salamarathupatti in krishnagiri District (Tamil Nadu) It is a small village there are 45 houses in my village.It is surrounded by green trees.The people of my village are looking very simple and they work hard.They work in their fields throughout the day.We get healthy food in my village fresh vegetables, fruits,milk,curd ,butter etc...There is a famous temple in my village the name of the temple is Sri chenraya Swamy temple.There is a  primary school in my village .There is a post officein my village .There is a public library in my village.There is a co-operative bank in my village.The people of my village are very brave and they help each other.Save trees, Save farmers, Eat healthy food, Stay safe ...</p>
           <a href="#services" class="btn btn-custom btn-lg page-scroll">View All Services</a> </div>
       </div>
       <div class="col-xs-12 col-md-3">
         <div class="about-media"> <img src="<?php echo base_url();?>assets/img/about-1.jpg" alt=" "> </div>
         <div class="about-desc">
-          <h3>Garden Care</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis.</p>
+          <h3>Puliyoor Road</h3>
+          <p>salamarathupatti village main road connecting with uthangarai to pocampalli </p>
         </div>
       </div>
       <div class="col-xs-12 col-md-3">
         <div class="about-media"> <img src="<?php echo base_url();?>assets/img/about-2.jpg" alt=" "> </div>
         <div class="about-desc">
-          <h3>Lawn Care</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante.</p>
+          <h3>Bus stop</h3>
+          <p>village bus stop</p>
         </div>
       </div>
     </div>
@@ -174,7 +173,7 @@
               <div class="hover-text">
                 <h4>Lorem Ipsum</h4>
               </div>
-              <img src="img/portfolio/01-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="<?php echo base_url();?>assets/img/portfolio/01-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 planting">
@@ -183,7 +182,7 @@
               <div class="hover-text">
                 <h4>Adipiscing Elit</h4>
               </div>
-              <img src="img/portfolio/02-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+              <img src="<?php echo base_url();?>assets/img/portfolio/02-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-4 lawn">
